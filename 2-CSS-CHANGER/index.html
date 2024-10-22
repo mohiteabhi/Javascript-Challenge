@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Day 2: CSS Changer</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div class="container">
+        <h1>Changing the CSS of below image, with the help of Sliders</h1>
+        <span class="heading">THE JAVASCRIPT</span>
+
+        <div class="css-controller">
+            <label for="base-color">Base Color: </label>
+            <input type="color" name="base-color" id="base-color" value="#5c5353">
+
+            <label for="width">Width: </label>
+            <input type="range" id="width" name="width" min="30" max="100" value="50" data-sizing="%">
+
+            <label for="border">Border-Radius:</label>
+            <input type="range" id="border-radius" name="border-radius" min="0" max="100" value="4" data-sizing="px">
+
+            <label for="padding">Padding:</label>
+            <input type="range" id="padding" name="padding" min="5" max="200" value="10" data-sizing="px">
+
+            <label for="blur">Blur:</label>
+            <input type="range" id="blur" name="blur" min="0" max="25" value="0" data-sizing="px">
+        </div>
+
+        <img src="https://cdn.pixabay.com/photo/2024/02/22/19/46/ai-generated-8590746_640.png" alt="Batman">
+
+    </div>
+    <script src="script.js"></script>
+</body>
+
+</html>
