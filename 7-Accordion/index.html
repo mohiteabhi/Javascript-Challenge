@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Day-7: Accordion</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css">
+</head>
+<body>
+   <div class="accordion">
+    
+        <div class="accordion-content">
+            <header>
+                <span class="title">Difference between let, const, and var?</span>
+                <i class="fa-solid fa-plus"></i>
+            </header>
+
+            <p class="description">
+                var is function-scoped and allows redeclaration, while let and const are block-scoped. let allows reassignment, but not redeclaration in the same scope, whereas const is a constant and cannot be reassigned.
+            </p>
+        </div>
+    
+        <div class="accordion-content">
+            <header>
+                <span class="title">What is a closure?</span>
+                <i class="fa-solid fa-plus"></i>
+            </header>
+
+            <p class="description">
+                A closure lets an inner function access variables from an outer function even after the outer function finishes running. Closures are useful for creating private variables and maintaining state across function calls.
+            </p>
+        </div>
+    
+        <div class="accordion-content">
+            <header>
+                <span class="title">Difference between == and ===?</span>
+                <i class="fa-solid fa-plus"></i>
+            </header>
+
+            <p class="description">
+                == (loose equality) allows type conversion during comparison, while === (strict equality) requires both type and value to match exactly, making it more reliable for precise comparisons.
+            </p>
+        </div>
+    
+        <div class="accordion-content">
+            <header>
+                <span class="title"> What is this in JavaScript?</span>
+                <i class="fa-solid fa-plus"></i>
+            </header>
+
+            <p class="description">
+                this refers to the object calling the function. In a method, it’s the object itself; in a regular function, it’s usually global or undefined in strict mode; and in an arrow function, it takes this from its surrounding scope.
+            </p>
+        </div>
+   </div>
+    
+
+    <script src="script.js"></script>
+</body>
+</html>
