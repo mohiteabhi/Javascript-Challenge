@@ -14,26 +14,26 @@ The goal of this challenge was to:
 
 Below are the projects I built during the 20 days:
 
-1. **Quiz App**
-2. **CSS Changer**
-3. **Code Editor**
-4. **Form Validation**
-5. **To-do-list**
-6. **Cursor Animation**
-7. **Accordion**
-8. **QR-Code-Generator**
+1. **Quiz App** : https://day-1-quiz-app.netlify.app/
+2. **CSS Changer** : https://day-2-css-changer.netlify.app/
+3. **Code Editor** : https://day-3-code-editor.netlify.app/
+4. **Form Validation** : https://day-4-form-validation.netlify.app/
+5. **To-do-list** : https://day-5-to-do-list.netlify.app/
+6. **Cursor Animation** : https://day-6-cursor-animation.netlify.app/
+7. **Accordion** : https://day-7-accordion.netlify.app/
+8. **QR-Code-Generator** : 
 9. **Text Editor**
 10. **Food Recipes**
-11. **Diwali**
-12. **Movie-Guide**
-13. **Auto-typing**
-14. **Music Player**
-15. **News App**
-16. **Chatbot**
-17. **Jokes-generator**
-18. **Weather-app**
-19. **Dictionary**
-20. **Pianio**
+11. **Diwali** : https://day-11-diwali.netlify.app/
+12. **Movie-Guide** : https://day-12-movie-info-finder.netlify.app/
+13. **Auto-typing** : https://day-13-auto-typing.netlify.app/
+14. **Music Player** : https://day-14-music-player.netlify.app/
+15. **News App** : 
+16. **Chatbot** : https://day-16-chatbot.netlify.app/
+17. **Jokes-generator** : https://day-17-jokes-generator.netlify.app/
+18. **Weather-app** : https://day-18-weather-app.netlify.app/
+19. **Dictionary** : https://day-19-dictionary.netlify.app/
+20. **Pianio** : https://day-20-pianio.netlify.app/
 
     
 ## ⚙️ How to Run the Projects
